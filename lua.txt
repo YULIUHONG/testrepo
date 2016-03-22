@@ -1,0 +1,8 @@
+
+菜鸟教程
+http://www.runoob.com/lua/lua-tutorial.html
+Lua 5.3 参考手册
+http://cloudwu.github.io/lua53doc/manual.html
+
+
+https://github.com/ksimonyan/caffe
