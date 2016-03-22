@@ -1,8 +1,10 @@
 
-²ËÄñ½Ì³Ìhaha
+haha
 http://www.runoob.com/lua/lua-tutorial.html
 Lua 5.3
 http://cloudwu.github.io/lua53doc/manual.html
 
 
 https://github.com/ksimonyan/caffe
+
+lalala
